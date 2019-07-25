@@ -13,5 +13,7 @@ end
 arr=["dog", "cat","bird"]
 
 arr.each do |animal|
+  binding.pry
   puts animal 
+
 end 
