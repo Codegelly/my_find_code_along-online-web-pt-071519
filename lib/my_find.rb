@@ -11,9 +11,5 @@ end
 
 
 arr=["dog", "cat","bird"]
+my_find(arr)
 
-arr.each do |animal|
-  binding.pry
-  puts animal 
-
-end 
