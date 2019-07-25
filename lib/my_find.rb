@@ -13,3 +13,4 @@ end
 arr=["dog", "cat","bird"]
 my_find(arr)
 
+
