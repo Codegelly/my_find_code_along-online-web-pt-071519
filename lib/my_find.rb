@@ -7,4 +7,11 @@ def my_find(collection)
   return collection[i if yield (collection[i])]
   i += 1 
 end
- 
+end 
+
+
+arr=["dog", "cat","bird"]
+
+arr.each do |animal|
+  puts animal 
+end 
